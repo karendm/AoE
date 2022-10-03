@@ -24,7 +24,7 @@ PowerShell -File aoe.ps1
 ```
 
 ## VBScript
-Execute the Visual Basic script via Command Prompt
+Execute the Visual Basic script via Command Prompt:
 ```command
 cscript aoe.vbs
 ```
