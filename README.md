@@ -28,3 +28,8 @@ Execute the Visual Basic script via Command Prompt:
 ```command
 cscript aoe.vbs
 ```
+
+## To Do
+- [ ] CNA Script
+- [ ] Customizable Window
+- [ ] Misc
