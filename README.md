@@ -1,7 +1,7 @@
 # AoE
 The Alert on Endpoint (AoE) repository contains a variety of scripts and source code that can be used to trigger a Windows message box.
 
-Within each file, the `<MESSAGE>` placeholder should be replaced with the message that should be presented to the user and the `<TITLE>` placeholder should be replaced with a name for the pop-up window. The commands below assume basic execution on the target Windows host, but should be modified accordingly if a remote tool or C2 framework are used.
+Within each file, the `<MESSAGE>` placeholder should be replaced with the message that should be presented to the user and the `<TITLE>` placeholder should be replaced with a name for the pop-up window. The commands below assume basic execution on the target Windows host, but should be modified accordingly if used remotely or in conjunction with a C2 framework.
 
 ## Executable
 Compile the C++ program:
