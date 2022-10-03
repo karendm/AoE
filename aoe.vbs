@@ -1,0 +1,1 @@
+x=msgbox("<MESSAGE>",16+0,"<TITLE>")
